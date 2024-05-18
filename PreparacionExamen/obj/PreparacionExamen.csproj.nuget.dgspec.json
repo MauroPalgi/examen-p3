@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurp\\source\\repos\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj": {}
+    "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\PreparacionExamen\\PreparacionExamen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurp\\source\\repos\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj": {
+    "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\PreparacionExamen\\PreparacionExamen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurp\\source\\repos\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj",
+        "projectUniqueName": "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\PreparacionExamen\\PreparacionExamen.csproj",
         "projectName": "PreparacionExamen",
-        "projectPath": "C:\\Users\\maurp\\source\\repos\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj",
-        "packagesPath": "C:\\Users\\maurp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurp\\source\\repos\\PreparacionExamen\\PreparacionExamen\\obj\\",
+        "projectPath": "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\PreparacionExamen\\PreparacionExamen.csproj",
+        "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\PreparacionExamen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maurp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
