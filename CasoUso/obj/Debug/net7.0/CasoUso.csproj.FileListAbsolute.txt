@@ -1,0 +1,12 @@
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\bin\Debug\net7.0\CasoUso.deps.json
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\bin\Debug\net7.0\CasoUso.dll
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\bin\Debug\net7.0\CasoUso.pdb
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.csproj.AssemblyReference.cache
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.AssemblyInfoInputs.cache
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.AssemblyInfo.cs
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.dll
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\refint\CasoUso.dll
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\CasoUso.pdb
+C:\Users\mauro\Source\Repos\MauroPalgi\examen-p3\CasoUso\obj\Debug\net7.0\ref\CasoUso.dll

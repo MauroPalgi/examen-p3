@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfases\" />
+    <Folder Include="Exepciones\" />
+  </ItemGroup>
+
 </Project>

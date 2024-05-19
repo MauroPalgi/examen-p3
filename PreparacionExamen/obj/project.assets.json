@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "CasoUso/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CasoUso.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CasoUso.dll": {}
+        }
       }
     }
   },
@@ -460,10 +470,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "CasoUso/1.0.0": {
+      "type": "project",
+      "path": "../CasoUso/CasoUso.csproj",
+      "msbuildProject": "../CasoUso/CasoUso.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CasoUso >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.17",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -494,7 +510,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\CasoUso\\CasoUso.csproj": {
+              "projectPath": "C:\\Users\\mauro\\Source\\Repos\\MauroPalgi\\examen-p3\\CasoUso\\CasoUso.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
